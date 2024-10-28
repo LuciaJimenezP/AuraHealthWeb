@@ -81,7 +81,7 @@ section.info{
 .contentI{
     background: white;
     border-radius: 12px;
-    width: 90%;
+    width: 60%;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(20rem,1fr));
@@ -95,7 +95,6 @@ section.info{
 
 .col2{
     background: white;
-    filter: drop-shadow(0 0 10px) rgba(0, 0, 0, 0.8);
     padding: 1rem 2rem;
     justify-content: center;
     display: flex;
@@ -150,13 +149,84 @@ h1{
 }
 .card img {
     background: white;
-    height: 150px;
-    margin-bottom: 10px;
+    height: 200px;
+    margin-bottom: 1px;
 }
 .card h2 {
     background: white;
 }
 .card p{
+    background: white;
+    padding: 10px;
+}
+
+.testimonials{
+    padding: 3rem 2rem;
+    text-align: center;
+    background: white;
+}
+
+.subtestimony{
+    text-align: center;
+    padding-bottom: 1rem;
+    background: white;
+}
+
+.subtestimony h1{
+    background: white;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color:#0a2e5c;
+}
+
+.subtestimony h2{
+    background: white;
+}
+
+.containerT{
+    border-radius: 8px;
+    background: white;
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(18rem, 1fr));
+    grid-gap: 2rem;
+}
+
+.boxT{
+    background: white;
+    display: inline-block;
+    width: 300px;
+    margin: 2rem;
+    vertical-align: top;
+    text-align: center;
+}
+
+.boxT img{
+    align-items: first baseline;
+    width: 120px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.subtestimony h1{
+    background: white;
+    border-radius: 8px;
+    margin: 3%;
+    font-size: 2.5rem;
+}
+
+blockquote{
+    font-size: 0.95rem;
+    margin: 0 10px 15px;
+    background: white;
+    line-height: 1.4;
+    text-align: justify;
+    font-style: italic;
+}
+
+.boxT p{
+    justify-content: left;
     background: white;
 }
 
