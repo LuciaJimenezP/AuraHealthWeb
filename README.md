@@ -10,11 +10,13 @@ algoritmos de Machine Learning permiten personalizar aún más la experiencia de
 usuario, prediciendo riesgos y sugiriendo acciones preventivas específicas. 
 NovaTech se mantiene a la vanguardia de las últimas tecnologías y tendencias en 
 salud digital para garantizar que AuraHealth sea una solución escalable, confiable 
-y efectiva para la mejora continua del bienestar de sus usuarios. 
+y efectiva para la mejora continua del bienestar de sus usuarios.
+
 Visión: La visión de NovaTech es convertirse en la plataforma líder mundial 
 en educación preventiva y bienestar, proporcionando a las personas las 
 herramientas necesarias para mantener su salud de manera proactiva y 
-consciente. 
+consciente.
+
 Misión: La misión de NovaTech es proporcionar una plataforma digital que 
 ofrezca contenido educativo personalizado y recordatorios preventivos, ayudando 
 a las personas de todas las edades a mejorar y mantener su salud mediante la 
@@ -49,9 +51,14 @@ del lenguaje natural.
 recordatorio: apartado de la aplicación en donde el usuario puede ingresar los datos de su próxima cita
 donde se muestra la fecha y hora, el detalle de la cita que el usuario mismo escribe, y una lista de 
 las proximas citas que el usuario ha registrado
+
 Biblioteca de información verificada: apartado de la aplicación en donde el usuario busca recursos educativos que le ayudarán 
 a mejorar su salud, estos viniendo en formatos de texto o de video
+
 Busqueda de información de chequeos médicos
+
 Registrar Recordatorios de vacunas
+
 Historial de Recomendaciones
+
 Navegación entre diferentes apartados de la aplicación a través de una barra de navegación que separa las secciones principales
