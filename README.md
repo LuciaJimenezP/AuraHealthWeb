@@ -1,6 +1,24 @@
 # Aurahealthweb
-Información del proyecto
-
+AuraHealth es una plataforma educativa diseñada para ofrecer contenido personalizado sobre 
+prevención de enfermedades, adaptado a las características individuales de los 
+usuarios, como su edad, género y antecedentes familiares. Además, este integra 
+un sistema de recordatorios para chequeos médicos, vacunaciones, y consejos 
+sobre hábitos saludables, todo basado en un análisis detallado de datos de salud. 
+Este servicio utiliza tecnologías de Big Data para analizar grandes 
+volúmenes de datos y ofrecer recomendaciones precisas, mientras que los 
+algoritmos de Machine Learning permiten personalizar aún más la experiencia del 
+usuario, prediciendo riesgos y sugiriendo acciones preventivas específicas. 
+NovaTech se mantiene a la vanguardia de las últimas tecnologías y tendencias en 
+salud digital para garantizar que AuraHealth sea una solución escalable, confiable 
+y efectiva para la mejora continua del bienestar de sus usuarios. 
+Visión: La visión de NovaTech es convertirse en la plataforma líder mundial 
+en educación preventiva y bienestar, proporcionando a las personas las 
+herramientas necesarias para mantener su salud de manera proactiva y 
+consciente. 
+Misión: La misión de NovaTech es proporcionar una plataforma digital que 
+ofrezca contenido educativo personalizado y recordatorios preventivos, ayudando 
+a las personas de todas las edades a mejorar y mantener su salud mediante la 
+prevención de enfermedades. 
 ## Autores
 Bellido Salas, Raúl                                                    
 Callañaupa Aguilar, Masiel Alejandra 
