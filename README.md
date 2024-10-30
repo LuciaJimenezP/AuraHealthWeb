@@ -23,11 +23,12 @@ a las personas de todas las edades a mejorar y mantener su salud mediante la
 prevención de enfermedades. 
 ## Autores
 Bellido Salas, Raúl                                                    
-Callañaupa Aguilar, Masiel Alejandra 
+
+Callañaupa Aguilar, Masiel Alejandra                            
 Gutiérrez Condo, Maylhy Olinda                  
 Jimenez Pinto, Lucia Belén                     
 Luyo Correa, Sandra Paula                    
-Mendoza Moreano, Mariel Lucero 
+Mendoza Moreano, Mariel Lucero                            
 Roca Tineo, Steven Mathew                            
 Rodrigo Calderon, Omar Alonzo                   
 ## segmentos objetivos
