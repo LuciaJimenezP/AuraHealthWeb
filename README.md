@@ -1,4 +1,4 @@
-# Aurahealthweb
+# AuraHealth
 AuraHealth es una plataforma educativa diseñada para ofrecer contenido personalizado sobre 
 prevención de enfermedades, adaptado a las características individuales de los 
 usuarios, como su edad, género y antecedentes familiares. Además, este integra 
