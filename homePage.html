@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <link rel="icon" type="image/png" href="img/logo2.png">
+  <link rel="icon" type="image/png" href="img/logo2.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfil de Usuario - AuraHealth</title>
+  <link rel="stylesheet" href="css\style_homePage.css">
+</head>
+<body>
+
+
+  <!-- Menu Overlay -->
+  <div class="menu-overlay"></div>
+
+  <!-- Sidebar Menu -->
+  <aside class="menu">
+    <div class="logo">
+      <img src="img/logo.png" alt="AuraHealth Logo" class="logo-img">
+    </div>
+    <ul>
+      <li><a href="homePage.html"><img src="imgRHP/i_inicio.png" alt="IInicio">Inicio</a></li>
+      <li><a href="perfil.html"><img src="imgRHP/i_perfil.png" alt="Iperfil">Mi perfil</a></li>
+      <li><a href="recordatorios.html"><img src="imgRHP/i_recordatorio.png" alt="Iperfil">Recordatorios</a></li>
+      <li><a href="recomendaciones.html"><img src="imgRHP/i_check.png" alt="Icheck">Recomendaciones</a></li>
+      <li><a href="chatbot.html"><img src="imgRHP/i_chat.png" alt="Ichat">ChatBot</a></li>
+      <li><a href="configuracion.html"><img src="imgRHP/i_confi.png" alt="Iconfi">Configuración</a></li>
+      <li><a href="inicio.html"><img src="imgRHP/i_cerrarS.png" alt="ISerrar">Cerrar Sesión</a></li>
+  </ul>
+  </aside>
+
+  <!-- Top Bar -->
+  <header class="topbar">
+    <h1 class="section-title">Inicio</h1>
+    
+    <div class="search-container">
+      <img src="imgRHP/i_search.svg" alt="Buscar" class="search-icon">
+      <input type="text" placeholder="Search here..." class="search-input">
+    </div>
+    
+    <div class="user-container">
+      <div class="language-selector">
+        <img src="imgRHP/i_pais.svg" alt="Idioma" class="language-flag">
+        <span>Eng (US)</span>
+        <img src="imgRHP/drawt.png" alt="Desplegable" class="dropdown-icon">
+      </div>
+      
+      <div class="notification-icon">
+        <img src="imgRHP/Notifications.png" alt="Notificaciones">
+        <span class="notification-dot"></span>
+      </div>
+
+      <div class="user-profile">
+        <img src="imgRHP/jakecito.png" alt="Foto de Usuario" class="profile-photo">
+        <span class="profile-name">Jake Smith</span>
+        <img src="imgRHP/drawt.png" alt="Desplegable" class="I-icon">
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="contenido">
+    <section class="bienvenida-recordatorios">
+      <div class="bienvenida">
+        <div class="foto-usuario">
+          <img src="imgRHP/jakecito.png" alt="Foto del Usuario">
+        </div>
+        <h2>Bienvenido Jake</h2>
+      </div>
+      <div class="recordatorios">
+        <h3><img src="imgRHP/clock-icon.png" alt="Icono reloj"> Próximo recordatorio</h3>
+      </div>
+    </section>
+
+    <section class="noticias-relevantes">
+      <h2>Noticias Relevantes de la semana</h2>
+      <div class="noticias">
+        <div class="noticia">
+          <img src="imgRHP/noticia1.png" alt="Noticia Mpox">
+          <div class="noticia-content">
+            <p><strong>¿Qué es la Mpox (Viruela símica)?</strong></p>
+          </div>
+        </div>
+        <!-- Más noticias serán agregadas por JavaScript -->
+      </div>
+    </section>
+  </main>
+
+  <script src="js\homePage.js"></script>
+</body>
+</html>

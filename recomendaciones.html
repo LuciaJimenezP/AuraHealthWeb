@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="icon" type="image/png" href="img/logo2.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuraHealth </title>
+    <link rel="stylesheet" href="css\style_recomendaciones.css">
+</head>
+<body>
+    <!-- Sidebar Menu -->
+    <aside class="menu">
+        <div class="logo">
+            <img src="imgRHP/logo.png" alt="AuraHealth Logo" class="logo-img">
+        </div>
+        <ul>
+            <li><a href="homePage.html"><img src="imgRHP/i_inicio.png" alt="IInicio">Inicio</a></li>
+            <li><a href="perfil.html"><img src="imgRHP/i_perfil.png" alt="Iperfil">Mi perfil</a></li>
+            <li><a href="recordatorios.html"><img src="imgRHP/i_recordatorio.png" alt="Iperfil">Recordatorios</a></li>
+            <li><a href="recomendaciones.html"><img src="imgRHP/i_check.png" alt="Icheck">Recomendaciones</a></li>
+            <li><a href="chatbot.html"><img src="imgRHP/i_chat.png" alt="Ichat">ChatBot</a></li>
+            <li><a href="configuracion.html"><img src="imgRHP/i_confi.png" alt="Iconfi">Configuración</a></li>
+            <li><a href="inicio.html"><img src="imgRHP/i_cerrarS.png" alt="ISerrar">Cerrar Sesión</a></li>
+        </ul>
+    </aside>
+
+    <!-- Top Navigation Bar -->
+    <header class="topbar">
+        <h1 class="section-title">Recomendaciones</h1>
+
+        <div class="search-container">
+            <img src="imgRHP/i_search.svg" alt="Buscar Icono" class="search-icon">
+            <input type="text" placeholder="Search here..." class="search-input">
+        </div>
+
+        <div class="user-container">
+            <div class="language-selector">
+                <img src="imgRHP/i_pais.svg" alt="Bandera" class="language-flag">
+                <span>Eng (US)</span>
+                <img src="imgRHP/drawt.png" alt="Desplegable" class="dropdown-icon">
+            </div>
+
+            <div class="notification-icon">
+                <img src="imgRHP/Notifications.png" alt="Notificaciones">
+            </div>
+
+            <div class="user-profile">
+                <img src="imgRHP/jakecito.png" alt="Foto de Usuario" class="profile-photo">
+                <span class="profile-name">Jake Smith</span>
+                <img src="imgRHP/drawt.png" alt="Desplegable" class="I-icon">
+            </div>
+        </div>
+    </header>
+
+    <!-- Contenido Principal -->
+    <main class="main-content">
+    <!-- Dentro de main-content -->
+        <div class="recommendations-container">
+            <div class="recommendations-header">
+                <h1>Artículos Disponibles</h1>
+                <div class="filter-buttons">
+                    <button class="filter-btn">
+                        <img src="imgRHP/star-icon.png" alt="Favoritos">
+                        Favoritos
+                        <img src="imgRHP/drawt.png" alt="Desplegable">
+                    </button>
+                    <button class="filter-btn">
+                        <img src="imgRHP/history-icon.png" alt="Historial">
+                        Historial
+                        <img src="imgRHP/drawt.png" alt="Desplegable">
+                    </button>
+                </div>
+            </div>
+
+            <div class="articles-grid">
+                <!-- Artículo 1 -->
+                <article class="article-card">
+                    <div class="article-content">
+                        <h2>Cómo construir una dieta balanceada:La guía para jóvenes activos</h2>
+                        <img src="imgRHP/dieta-balanceada.png" alt="Dieta balanceada">
+                        <button class="bookmark-btn">
+                            <img src="imgRHP/bookmark-icon.png" alt="Guardar">
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Artículo 2 -->
+                <article class="article-card">
+                    <div class="article-content">
+                        <h2>Rutinas de ejercicio fáciles para mantenerse en forma desde casa</h2>
+                        <img src="imgRHP/ejercicio-casa.png" alt="Ejercicio en casa">
+                        <button class="bookmark-btn">
+                            <img src="imgRHP/bookmark-icon.png" alt="Guardar">
+                        </button>
+                    </div>
+                </article>
+
+                <!-- Artículo 3 -->
+                <article class="article-card">
+                    <div class="article-content">
+                        <h2>Cómo protegerte contra infecciones comunes</h2>
+                        <img src="imgRHP/higiene-manos.png" alt="Lavado de manos">
+                        <button class="bookmark-btn">
+                            <img src="imgRHP/bookmark-icon.png" alt="Guardar">
+                        </button>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </main>
+
+    <script src="js\recomendaciones.js"></script>
+</body>
+</html>
